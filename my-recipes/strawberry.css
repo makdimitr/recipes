@@ -1,0 +1,30 @@
+body{
+    background-color: coral;
+    font-size: 30px;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+ol{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    color: darkred;
+}
+.resize{
+    display: block;
+    width: 600px;
+    height: 500px;
+}
+.float_img{
+    float: left; 
+    margin-right: 35px;
+    border: solid black 1px; 
+    padding: 1px
+}

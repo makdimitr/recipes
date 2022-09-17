@@ -1,0 +1,28 @@
+
+body{
+    background-color:darkgoldenrod;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: cursive;
+    font-size: 80px ;
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+p{
+    font-family:  cursive;
+    font-size: 35px;
+}
+.resize{
+    display: block;
+    width: 500px;
+    height: 400px;
+}
+.float_img{
+    float: left; 
+    margin-right: 25px;
+    border: solid black 1px; 
+    padding: 1px
+}
